@@ -32,7 +32,7 @@ class AIEngineer:
 
 **AI & Machine Learning**
 
-PyTorch | TensorFlow | HuggingFace Transformers | LangChain | LangGraph | Scikit-Learn
+PyTorch | TensorFlow | HuggingFace Transformers | LangChain | LangGraph | Pydantic AI | Scikit-Learn
 
 **Development & Infrastructure**
 
@@ -40,7 +40,7 @@ Python | FastAPI | Docker | SQL | Microsoft Azure | Git
 
 **Specializations**
 
-Large Language Models | RAG Systems | AI Agents | Computer Vision | Time Series Analysis | NLP
+Machine Learning | Deep Learning | AI Agents | Computer Vision | Time Series Analysis | NLP
 
 ## GitHub Statistics
 
