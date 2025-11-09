@@ -57,15 +57,6 @@ Large Language Models | RAG Systems | AI Agents | Computer Vision | Time Series 
 
 </div>
 
-## Current Focus
-
-Deploying and optimizing Gemma 3 27B on IBM Watson X AI
-
-Building comprehensive LLM testing frameworks and load testing suites
-
-Architecting production-ready RAG systems with hybrid retrieval
-
-Developing multi-agent systems for complex business workflows
 
 ## Connect
 
@@ -76,7 +67,5 @@ Interested in discussing novel ML architectures, LLM applications, production AI
 <div align="center">
 
 The most exciting AI isn't the one that replaces humans—it's the one that augments human intelligence.
-
-![Profile Views](https://komarev.com/ghpvc/?username=selcuksntrk&color=58A6FF&style=flat-square)
 
 </div>
