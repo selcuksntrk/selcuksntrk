@@ -21,13 +21,13 @@ class AIEngineer:
         self.role = "Data & AI Delivery Consultant"
         self.company = "IBM Expert Labs"
         self.education = "MSc Computer Science"
-        self.focus = ["LLMs", "AI Agents", "RAG Systems", "Deep Learning"]
+        self.focus = ["AI Agents", "ML Model Efficiency", "Deep Learning"]
         
     def current_work(self):
         return {
-            "building": "Production-grade LLM deployments on Watson X AI",
-            "exploring": "Multi-agent systems with LangGraph",
-            "optimizing": "RAG architectures for enterprise"
+            "building": "Production-grade ML Applications",
+            "exploring": "Multi-agent systems with Pydantic AI & LangChain/LangGraph",
+            "optimizing": "ML models efficiency on limited hardware"
         }
 ```
 
