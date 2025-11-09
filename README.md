@@ -45,20 +45,6 @@ Python | FastAPI | Docker | SQL | Microsoft Azure | Git
 
 Large Language Models | RAG Systems | AI Agents | Computer Vision | Time Series Analysis | NLP
 
-## Projects
-
-**PMAGE: AI Project Management Agent**  
-AI-powered agent for automated project planning with intelligent task generation, resource allocation, and risk assessment  
-`LangChain` `LangGraph` `Streamlit` `Docker`
-
-**Enterprise RAG System**  
-Production LLM application with privacy-first local deployment for document Q&A  
-`LLama2` `FAISS` `HuggingFace` `Docker`
-
-**Intelligent Early Warning System**  
-Time series anomaly detection across infrastructure metrics with automated alerting  
-`Prophet` `ARIMA/SARIMA` `Docker`
-
 ## GitHub Statistics
 
 <div align="center">
