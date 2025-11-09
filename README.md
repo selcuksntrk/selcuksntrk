@@ -6,9 +6,6 @@ Data & AI Delivery Consultant @ IBM Expert Labs
 
 Building intelligent systems that understand, adapt, and solve
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selcuksntrk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://www.selcuksenturk.net/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:selcuksntrk@gmail.com)
 
 </div>
 
