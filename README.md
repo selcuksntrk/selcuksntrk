@@ -2,7 +2,7 @@
   
 # Selcuk Senturk
 
-Data & AI Delivery Consultant @ IBM Expert Labs
+AI/ML Engineer @ IBM Expert Labs
 
 Building intelligent systems that understand, adapt, and solve
 
