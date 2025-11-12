@@ -28,20 +28,6 @@ class AIEngineer:
         }
 ```
 
-## Technical Expertise
-
-**AI & Machine Learning**
-
-PyTorch | TensorFlow | HuggingFace Transformers | LangChain | LangGraph | Pydantic AI | Scikit-Learn
-
-**Development & Infrastructure**
-
-Python | FastAPI | Docker | SQL | Microsoft Azure | Git
-
-**Specializations**
-
-Machine Learning | Deep Learning | AI Agents | Computer Vision | Time Series Analysis | NLP
-
 ## GitHub Statistics
 
 <div align="center">
