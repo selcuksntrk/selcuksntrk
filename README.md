@@ -15,7 +15,7 @@ Building intelligent systems that understand, adapt, and solve
 ```python
 class AIEngineer:
     def __init__(self):
-        self.role = "Data & AI Delivery Consultant"
+        self.role = "AI/ML Engineer"
         self.company = "IBM Expert Labs"
         self.education = "MSc Computer Science"
         self.focus = ["AI Agents", "ML Model Efficiency", "Deep Learning"]
