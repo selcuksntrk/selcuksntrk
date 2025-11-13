@@ -18,7 +18,7 @@ class AIEngineer:
         self.role = "AI/ML Engineer"
         self.company = "IBM Expert Labs"
         self.education = "MSc Computer Science"
-        self.focus = ["AI Agents", "ML Model Efficiency", "Deep Learning"]
+        self.focus = ["Deep Learning", "AI Agents", "ML Model Efficiency"]
         
     def current_work(self):
         return {
