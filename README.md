@@ -32,12 +32,13 @@ class AIEngineer:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selcuksntrk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selcuksntrk&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=selcuksntrk&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=selcuksntrk&theme=tokyonight)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=selcuksntrk&theme=tokyonight&utcOffset=3)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selcuksntrk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=selcuksntrk&theme=tokyonight)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=selcuksntrk&theme=tokyonight)
 
 </div>
 
