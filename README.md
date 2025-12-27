@@ -13,7 +13,7 @@ Building intelligent systems that understand, adapt, and solve
 
 ## About
 ```python
-class AIEngineer:
+class AIMLEngineer:
     def __init__(self):
         self.role = "AI/ML Engineer"
         self.company = "IBM Expert Labs"
